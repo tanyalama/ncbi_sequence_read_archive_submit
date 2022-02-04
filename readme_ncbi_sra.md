@@ -91,6 +91,154 @@ Please complete your submission within 30 days of creating a preload folder. If 
 Return back to this page and click the "New submission" button to complete the submission.
 Please note: it takes at least 10 minutes for uploaded files to become available for selection.
 
+## Success: 
+Note that Aspera never registered the upload using a tar.gz
+I suspect this is because it was not housed within it's own folder. Aspera needs you to direct it to a folder with a unique name
+We had more success uploading an unzipped folder with 140 fasta files inside. 
+The BioProject has been accessioned under **BioProject ID PRJNA803364**
+The Samples have been accessioned under: 
+Accession    Sample Name    SPUID    Organism    Tax ID    Breed   
+SAMN25649240    BOBCAT_1    BOBCAT_1    Lynx rufus    61384    not applicable   
+SAMN25649241    BOBCAT_2    BOBCAT_2    Lynx rufus    61384    not applicable   
+SAMN25649242    BOBCAT_3    BOBCAT_3    Lynx rufus    61384    not applicable   
+SAMN25649243    BOBCAT_4    BOBCAT_4    Lynx rufus    61384    not applicable   
+SAMN25649244    BOBCAT_5    BOBCAT_5    Lynx rufus    61384    not applicable   
+SAMN25649245    BOBCAT_6    BOBCAT_6    Lynx rufus    61384    not applicable   
+SAMN25649246    L155    L155    Lynx canadensis    61383    not applicable   
+SAMN25649247    LIC11    LIC11    Lynx canadensis    61383    not applicable   
+SAMN25649248    LIC20    LIC20    Lynx canadensis    61383    not applicable   
+SAMN25649249    LIC23    LIC23    Lynx canadensis    61383    not applicable   
+SAMN25649250    LIC24    LIC24    Lynx canadensis    61383    not applicable   
+SAMN25649251    LIC27B    LIC27B    Lynx canadensis    61383    not applicable   
+SAMN25649252    LIC28    LIC28    Lynx canadensis    61383    not applicable   
+SAMN25649253    LIC31    LIC31    Lynx canadensis    61383    not applicable   
+SAMN25649254    LIC32    LIC32    Lynx canadensis    61383    not applicable   
+SAMN25649255    LIC36    LIC36    Lynx canadensis    61383    not applicable   
+SAMN25649256    LIC46    LIC46    Lynx canadensis    61383    not applicable   
+SAMN25649257    LIC47    LIC47    Lynx canadensis    61383    not applicable   
+SAMN25649258    LIC48    LIC48    Lynx canadensis    61383    not applicable   
+SAMN25649259    LIC54    LIC54    Lynx canadensis    61383    not applicable   
+SAMN25649260    LIC57    LIC57    Lynx canadensis    61383    not applicable   
+SAMN25649261    LIC60    LIC60    Lynx canadensis    61383    not applicable   
+SAMN25649262    LIC8    LIC8    Lynx canadensis    61383    not applicable   
+SAMN25649263    LIC9    LIC9    Lynx canadensis    61383    not applicable   
+SAMN25649264    LIT2    LIT2    Lynx canadensis    61383    not applicable   
+SAMN25649265    LIT5    LIT5    Lynx canadensis    61383    not applicable   
+SAMN25649266    LRK10    LRK10    Lynx canadensis    61383    not applicable   
+SAMN25649267    LRK11    LRK11    Lynx canadensis    61383    not applicable   
+SAMN25649268    LRK12    LRK12    Lynx canadensis    61383    not applicable   
+SAMN25649269    LRK13    LRK13    Lynx canadensis    61383    not applicable   
+SAMN25649270    LRK17    LRK17    Lynx canadensis    61383    not applicable   
+SAMN25649271    LRK22    LRK22    Lynx canadensis    61383    not applicable   
+SAMN25649272    ME1998    ME1998    Lynx canadensis    61383    not applicable   
+SAMN25649273    a109    a109    Lynx canadensis    61383    not applicable   
+SAMN25649274    a182    a182    Lynx canadensis    61383    not applicable   
+SAMN25649275    A202    A202    Lynx canadensis    61383    not applicable   
+SAMN25649276    a33    a33    Lynx canadensis    61383    not applicable   
+SAMN25649277    a475    a475    Lynx canadensis    61383    not applicable   
+SAMN25649278    A494    A494    Lynx canadensis    61383    not applicable   
+SAMN25649279    a507    a507    Lynx canadensis    61383    not applicable   
+SAMN25649280    a697    a697    Lynx canadensis    61383    not applicable   
+SAMN25649281    A772    A772    Lynx canadensis    61383    not applicable   
+SAMN25649282    a794    a794    Lynx canadensis    61383    not applicable   
+SAMN25649283    A803    A803    Lynx canadensis    61383    not applicable   
+SAMN25649284    A818    A818    Lynx canadensis    61383    not applicable   
+SAMN25649285    A857    A857    Lynx canadensis    61383    not applicable   
+SAMN25649286    B114    B114    Lynx canadensis    61383    not applicable   
+SAMN25649287    B124    B124    Lynx canadensis    61383    not applicable   
+SAMN25649288    b188    b188    Lynx canadensis    61383    not applicable   
+SAMN25649289    B23    B23    Lynx canadensis    61383    not applicable   
+SAMN25649290    b276    b276    Lynx canadensis    61383    not applicable   
+SAMN25649291    B554    B554    Lynx canadensis    61383    not applicable   
+SAMN25649292    b90    b90    Lynx canadensis    61383    not applicable   
+SAMN25649293    c165    c165    Lynx canadensis    61383    not applicable   
+SAMN25649294    c323    c323    Lynx canadensis    61383    not applicable   
+SAMN25649295    c548    c548    Lynx canadensis    61383    not applicable   
+SAMN25649296    B13    B13    Lynx canadensis    61383    not applicable   
+SAMN25649297    CB15    CB15    Lynx canadensis    61383    not applicable   
+SAMN25649298    CB42    CB42    Lynx canadensis    61383    not applicable   
+SAMN25649299    CB7    CB7    Lynx canadensis    61383    not applicable   
+SAMN25649300    f264    f264    Lynx canadensis    61383    not applicable   
+SAMN25649301    f457    f457    Lynx canadensis    61383    not applicable   
+SAMN25649302    FHA_024    FHA_024    Lynx canadensis    61383    not applicable   
+SAMN25649303    FHA_042    FHA_042    Lynx canadensis    61383    not applicable   
+SAMN25649304    FHA_043    FHA_043    Lynx canadensis    61383    not applicable   
+SAMN25649305    L09_003    L09_003    Lynx canadensis    61383    not applicable   
+SAMN25649306    L09_007    L09_007    Lynx canadensis    61383    not applicable   
+SAMN25649307    L09_015    L09_015    Lynx canadensis    61383    not applicable   
+
+
+https://www.ncbi.nlm.nih.gov/biosample/25649240
+https://www.ncbi.nlm.nih.gov/biosample/25649241
+https://www.ncbi.nlm.nih.gov/biosample/25649242
+https://www.ncbi.nlm.nih.gov/biosample/25649243
+https://www.ncbi.nlm.nih.gov/biosample/25649244
+https://www.ncbi.nlm.nih.gov/biosample/25649245
+https://www.ncbi.nlm.nih.gov/biosample/25649246
+https://www.ncbi.nlm.nih.gov/biosample/25649247
+https://www.ncbi.nlm.nih.gov/biosample/25649248
+https://www.ncbi.nlm.nih.gov/biosample/25649249
+https://www.ncbi.nlm.nih.gov/biosample/25649250
+https://www.ncbi.nlm.nih.gov/biosample/25649251
+https://www.ncbi.nlm.nih.gov/biosample/25649252
+https://www.ncbi.nlm.nih.gov/biosample/25649253
+https://www.ncbi.nlm.nih.gov/biosample/25649254
+https://www.ncbi.nlm.nih.gov/biosample/25649255
+https://www.ncbi.nlm.nih.gov/biosample/25649256
+https://www.ncbi.nlm.nih.gov/biosample/25649257
+https://www.ncbi.nlm.nih.gov/biosample/25649258
+https://www.ncbi.nlm.nih.gov/biosample/25649259
+https://www.ncbi.nlm.nih.gov/biosample/25649260
+https://www.ncbi.nlm.nih.gov/biosample/25649261
+https://www.ncbi.nlm.nih.gov/biosample/25649262
+https://www.ncbi.nlm.nih.gov/biosample/25649263
+https://www.ncbi.nlm.nih.gov/biosample/25649264
+https://www.ncbi.nlm.nih.gov/biosample/25649265
+https://www.ncbi.nlm.nih.gov/biosample/25649266
+https://www.ncbi.nlm.nih.gov/biosample/25649267
+https://www.ncbi.nlm.nih.gov/biosample/25649268
+https://www.ncbi.nlm.nih.gov/biosample/25649269
+https://www.ncbi.nlm.nih.gov/biosample/25649270
+https://www.ncbi.nlm.nih.gov/biosample/25649271
+https://www.ncbi.nlm.nih.gov/biosample/25649272
+https://www.ncbi.nlm.nih.gov/biosample/25649273
+https://www.ncbi.nlm.nih.gov/biosample/25649274
+https://www.ncbi.nlm.nih.gov/biosample/25649275
+https://www.ncbi.nlm.nih.gov/biosample/25649276
+https://www.ncbi.nlm.nih.gov/biosample/25649277
+https://www.ncbi.nlm.nih.gov/biosample/25649278
+https://www.ncbi.nlm.nih.gov/biosample/25649279
+https://www.ncbi.nlm.nih.gov/biosample/25649280
+https://www.ncbi.nlm.nih.gov/biosample/25649281
+https://www.ncbi.nlm.nih.gov/biosample/25649282
+https://www.ncbi.nlm.nih.gov/biosample/25649283
+https://www.ncbi.nlm.nih.gov/biosample/25649284
+https://www.ncbi.nlm.nih.gov/biosample/25649285
+https://www.ncbi.nlm.nih.gov/biosample/25649286
+https://www.ncbi.nlm.nih.gov/biosample/25649287
+https://www.ncbi.nlm.nih.gov/biosample/25649288
+https://www.ncbi.nlm.nih.gov/biosample/25649289
+https://www.ncbi.nlm.nih.gov/biosample/25649290
+https://www.ncbi.nlm.nih.gov/biosample/25649291
+https://www.ncbi.nlm.nih.gov/biosample/25649292
+https://www.ncbi.nlm.nih.gov/biosample/25649293
+https://www.ncbi.nlm.nih.gov/biosample/25649294
+https://www.ncbi.nlm.nih.gov/biosample/25649295
+https://www.ncbi.nlm.nih.gov/biosample/25649296
+https://www.ncbi.nlm.nih.gov/biosample/25649297
+https://www.ncbi.nlm.nih.gov/biosample/25649298
+https://www.ncbi.nlm.nih.gov/biosample/25649299
+https://www.ncbi.nlm.nih.gov/biosample/25649300
+https://www.ncbi.nlm.nih.gov/biosample/25649301
+https://www.ncbi.nlm.nih.gov/biosample/25649302
+https://www.ncbi.nlm.nih.gov/biosample/25649303
+https://www.ncbi.nlm.nih.gov/biosample/25649304
+https://www.ncbi.nlm.nih.gov/biosample/25649305
+https://www.ncbi.nlm.nih.gov/biosample/25649306
+https://www.ncbi.nlm.nih.gov/biosample/25649307
+
+These reads will be released upon publication
+
 ## Appendix and FAQ
 
 :::info
